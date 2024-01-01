@@ -20,7 +20,7 @@ body {
   overflow: hidden;
   text-align: center;
   width: 100%;
-  max-width: 900px;
+  max-width: 500px;
   padding-bottom: 10px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, .15);
 }
